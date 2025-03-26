@@ -18,25 +18,25 @@ The **WHMCS Docker n8n module** is designed for automated provisioning and manag
 
 ## **Key Features**
 
-### ** Automated Container Management**
+### **Automated Container Management**
 
 - Automatic creation of an n8n container upon service order.
 - Automated package upgrades and administrator password reset.
 
-### ** Service Control & Security**
+### **Service Control & Security**
 
 - Service suspension and reactivation.
 - Full termination of services when needed.
 
-### ** Advanced Diagnostic Tools**
+### **Advanced Diagnostic Tools**
 
 - Built-in tools for diagnosing and managing containers.
 
-### ** Multilingual Support**
+### **Multilingual Support**
 
 - Supports multiple languages, including **Arabic, Azerbaijani, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Farsi, French, German, Hebrew, Hungarian, Italian, Macedonian, Norwegian, Polish, Romanian, Russian, Spanish, Swedish, Turkish, and Ukrainian**.
 
-### ** Fully Customizable Workflows**
+### **Fully Customizable Workflows**
 
 - Uses **n8n workflows** to automate processes, allowing full customization for business-specific needs.
 
@@ -53,30 +53,30 @@ To run the WHMCS Docker n8n module, ensure you have:
 
 ## **Installation &amp; Setup**
 
-### ** Environment Preparation**
+### **Environment Preparation**
 
 - Install **WHMCS 8+**.
 - Set up an **n8n server** for automation workflows.
 - Ensure **Docker** is installed and running.
 
-### ** Module Installation**
+### **Module Installation**
 
 - Upload and activate the **WHMCS Docker n8n module**.
 - Configure the module settings to connect with your Docker server and n8n workflows.
 
-### ** Workflow Customization**
+### **Workflow Customization**
 
 - Utilize **n8n workflows** to automate service provisioning and management.
 - Modify workflows as needed for custom business logic.
 
-### ** Testing & Deployment**
+### **Testing & Deployment**
 
 - Perform a **test order** to verify automatic container creation.
 - Check all service management functions (suspension, unlocking, termination).
 
 - - - - - -
 
-## ** Why Choose This Module?**
+## **Why Choose This Module?**
 
 - **Seamless automation** – Reduces manual work and speeds up service deployment.  
 - **Highly customizable** – Modify workflows to fit any business model.  
